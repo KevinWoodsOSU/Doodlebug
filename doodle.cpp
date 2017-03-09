@@ -1,12 +1,6 @@
-
 #include "doodle.h"
 #include "menu.h"
 #include "grid.h"
-/**************************
-Kevin Woods - woodske@oregonstate.edu
-CS 162 - Fall 2016
-Lab 5 - Predator vs Prey
-***************************/
 
 Doodle::Doodle(int row, int column) {
 	setThisChar(DOODLEBUG);
