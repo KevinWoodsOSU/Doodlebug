@@ -1,9 +1,3 @@
-/**************************
-Kevin Woods - woodske@oregonstate.edu
-CS 162 - Fall 2016
-Lab 5 - Predator vs Prey
-***************************/
-
 #ifndef GRID_H
 #define GRID_H
 
