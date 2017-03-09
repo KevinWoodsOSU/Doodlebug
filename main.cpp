@@ -1,12 +1,6 @@
 #include "menu.h"
 #include "critter.h"
 #include "ant.h"
-/**************************
-Kevin Woods - woodske@oregonstate.edu
-CS 162 - Fall 2016
-Lab 5 - Predator vs Prey
-***************************/
-
 #include "grid.h"
 #include "doodle.h"
 
